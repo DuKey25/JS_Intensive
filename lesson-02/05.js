@@ -8,6 +8,6 @@ let newPassport = {
     name: "Ivan" 
 };
 
-console.log(passport); 
+console.log(passport.name); 
 
-console.log(newPassport);
+console.log(newPassport.name);
